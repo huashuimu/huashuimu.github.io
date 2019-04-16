@@ -2,8 +2,6 @@
 title: huashuimu Blog
 SEOTitle: 花水木的博客 | huashuimu Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
 keyword: "huashuimu, huashuimu Blog, 花水木的博客"
 url: "http://huashuimu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
